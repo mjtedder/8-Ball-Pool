@@ -1,4 +1,4 @@
-function stick(){
+function stick() {
     this.position = {x:0,y:400};
 }
 
